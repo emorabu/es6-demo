@@ -528,7 +528,7 @@ babel-helpers@^6.24.1:
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
 
-babel-loader@7:
+babel-loader@7.1.5:
   version "7.1.5"
   resolved "http://registry.npm.taobao.org/babel-loader/download/babel-loader-7.1.5.tgz#e3ee0cd7394aa557e013b02d3e492bfd07aa6d68"
   integrity sha1-4+4M1zlKpVfgE7AtPkkr/QeqbWg=
@@ -1333,6 +1333,11 @@ connect-livereload@^0.5.3:
   version "0.5.4"
   resolved "http://registry.npm.taobao.org/connect-livereload/download/connect-livereload-0.5.4.tgz#80157d1371c9f37cc14039ab1895970d119dc3bc"
   integrity sha1-gBV9E3HJ83zBQDmrGJWXDRGdw7w=
+
+connect-livereload@^0.6.1:
+  version "0.6.1"
+  resolved "http://registry.npm.taobao.org/connect-livereload/download/connect-livereload-0.6.1.tgz#1ac0c8bb9d9cfd5b28b629987a56a9239db9baaa"
+  integrity sha1-GsDIu52c/VsotimYelapI525uqo=
 
 connect@^3.3.4:
   version "3.6.6"
